@@ -1,0 +1,5 @@
+# Week 10 - Python 3.11+. No API calls this week.
+pandas
+matplotlib
+jupyter
+pytest

@@ -1,0 +1,317 @@
+student_id,first_name,last_name,course,campus,enrolled_on,age,fee_paid,final_grade,email
+1161,Tom,Jones,Comp Sci,N/A,09/19/2025,28,"Rs 48,000",60.6,tom.jones@example.edu
+1112,Eli,Garcia,computer science,Coimbatore,03/20/2025,36,48000,69.4,eli.garcia@example.edu
+1027,Tom,Brown,Computer Science,Coimbatore,23 May 2025,30,48000,83.1,tom.brown@example.edu
+1072,Quinn,Murphy,Eng.,Chennai,9 Mar 2025,33,32000,86.6,quinn.murphy@example.edu
+1177,Mei,Farah, Data Science ,Madurai,01/06/2025,28,55000,,mei.farah@example.edu
+1268,Eli,Ahmed,engineering,Madurai,2025-11-22,45,"Rs 32,000",55.2,eli.ahmed@example.edu
+1147,Aisha,Okafor,ENGINEERING,Chennai,2025-01-08,33,32000,75.0,aisha.okafor@example.edu
+1185,Quinn,Smith,data science,Madurai,2025-07-20,0,"Rs 55,000",,quinn.smith@example.edu
+1166,Jai,Garcia,Eng.,Chennai,2025-11-20,35,32000,64.8,jai.garcia@example.edu
+1134,Kemi,Ahmed,Data Science,Coimbatore,11 Mar 2025,30,"55,000",60.0,kemi.ahmed@example.edu
+1137,Grace,Farah,DATA SCIENCE,Chennai,10/22/2025,43,"55,000",76.4,grace.farah@example.edu
+1285,Liam,Jones,Computer Science,Madurai,2025-07-01,39,48000,,liam.jones@example.edu
+1004,Chen,Hughes,Data Science,Chennai,17/05/2025,45,"55,000",73.7,chen.hughes@example.edu
+1071,Ravi,Hughes,DATA SCIENCE,Coimbatore,26/11/2025,23,"Rs 55,000",74.3,ravi.hughes@example.edu
+1105,Mei,Brown,Eng.,Coimbatore,11/21/2025,26,32000,75.6,mei.brown@example.edu
+1179,Ingrid,Brown,Eng.,Madurai,2025-03-02,31,"32,000",53.7,ingrid.brown@example.edu
+1148,Omar,Ahmed,computer science,Chennai,2025-02-01,43,"Rs 48,000",67.3,omar.ahmed@example.edu
+1018,Priya,Lewis,Eng.,Coimbatore,07/07/2025,26,"32,000",50.4,priya.lewis@example.edu
+1011,Noor,Patel,computer science,Madurai,10 Nov 2025,19,"Rs 48,000",85.6,noor.patel@example.edu
+1114,Mei,Patel,data science,Madurai,21/12/2025,33,55000,,mei.patel@example.edu
+1095,Grace,Okafor, Data Science ,Madurai,09/25/2025,43,"Rs 55,000",38.1,grace.okafor@example.edu
+1009,Hassan,Brown,data science,Madurai,25/06/2025,31,55000,61.3,hassan.brown@example.edu
+1102,Grace,Khan,Eng.,Madurai,20/02/2025,30,"Rs 32,000",68.2,grace.khan@example.edu
+1066,Jai,Farah,Eng.,Madurai,06/03/2025,45,32000,,jai.farah@example.edu
+1209,Liam,Tanaka,Engineering,Coimbatore,02/17/2025,22,"Rs 32,000",93.3,liam.tanaka@example.edu
+1162,Priya,Garcia,Computer Science,Madurai,13/06/2025,45,"Rs 48,000",64.8,priya.garcia@example.edu
+1206,Kemi,Nkemdirim,Data Science,N/A,08/12/2025,26,55000,81.5,kemi.nkemdirim@example.edu
+1063,Divya,Jones,Engineering,Coimbatore,2025-02-11,39,"Rs 32,000",99.0,divya.jones@example.edu
+1014,Tom,Smith,CS,Coimbatore,01/21/2025,40,"Rs 48,000",62.4,tom.smith@example.edu
+1292,Jai,Rossi,Comp Sci,Madurai,04/10/2025,24,48000,86.0,jai.rossi@example.edu
+1100,Jai,Brown,computer science,Madurai,14/12/2025,31,48000,73.8,jai.brown@example.edu
+1261,Ingrid,Brown,Engineering,Coimbatore,12 Jun 2025,19,32000,94.3,ingrid.brown@example.edu
+1168,Jai,Jones,Computer Science,Coimbatore,2025-12-20,22,48000,84.6,jai.jones@example.edu
+1059,Jai,Murphy,Computer Science,Coimbatore,1 Nov 2025,27,"48,000",71.4,jai.murphy@example.edu
+1196,Grace,Nkemdirim,Engineering,Madurai,07/12/2025,24,"Rs 32,000",71.9,grace.nkemdirim@example.edu
+1135,Eli,Hughes,engineering,Chennai,2025-09-19,36,32000,68.2,ELI.HUGHES@EXAMPLE.EDU
+1220,Eli,Hughes,Computer Science,Coimbatore,03/11/2025,21,48000,72.6,eli.hughes@example.edu
+1249,Kemi,Hughes,engineering,Chennai,12 Jan 2025,37,32000,64.0,kemi.hughes@example.edu
+1213,Grace,Hughes,DATA SCIENCE,Coimbatore,8 Sep 2025,23,"Rs 55,000",76.0,grace.hughes@example.edu
+1293,Liam,Evans,DATA SCIENCE,Madurai,12/26/2025,44,"Rs 55,000",58.0,liam.evans@example.edu
+1026,Ben,Brown,computer science,Madurai,25 Apr 2025,40,"48,000",67.3,ben.brown@example.edu
+1136,Priya ,Okafor,Engineering,Madurai,2025-03-26,42,32000,82.8,priya.okafor@example.edu
+1246,Quinn,Rossi,DATA SCIENCE,Coimbatore,01/09/2025,40,55000,70.8,quinn.rossi@example.edu
+1115,Fatima,Ahmed,Engineering,Madurai,24 Sep 2025,26,"Rs 32,000",63.2,fatima.ahmed@example.edu
+1106,Ingrid,Patel,DATA SCIENCE,Coimbatore,15 Aug 2025,36,"55,000",57.8,ingrid.patel@example.edu
+1015,Omar,Khan,engineering,N/A,21/12/2025,33,"32,000",72.4,omar.khan@example.edu
+1204,Ingrid,Garcia,Computer Science,Coimbatore,12 Jul 2025,20,"Rs 48,000",53.6,ingrid.garcia@example.edu
+1239,Ben,Chen,CS,Chennai,3 Apr 2025,36,48000,65.3,ben.chen@example.edu
+1060,Quinn,Quinn, Data Science ,Madurai,12/12/2025,44,"Rs 55,000",78.4,quinn.quinn@example.edu
+1139,Sofia,Davies,DATA SCIENCE,Madurai,20/06/2025,37,"55,000",48.1,sofia.davies@example.edu
+1282,Liam,Quinn,Data Science,Chennai,4 Oct 2025,36,"55,000",55.1,liam.quinn@example.edu
+1101,Divya,Smith,Engineering,Chennai,2025-03-27,19,"32,000",64.8,divya.smith@example.edu
+1151,Ben,Tanaka,Eng.,Chennai,09/27/2025,24,"32,000",63.0,ben.tanaka@example.edu
+1163,Hassan,Chen,data science,Chennai,2025-02-23,23,"Rs 55,000",74.3,hassan.chen@example.edu
+1297,Ravi,Smith,Engineering,Chennai,06/09/2025,29,32000,66.6,ravi.smith@example.edu
+1049,Liam,Nkemdirim,CS,Coimbatore,2025-04-11,40,"48,000",83.8,liam.nkemdirim@example.edu
+1275,Fatima,Brown,Computer Science,Coimbatore,11/22/2025,28,"48,000",68.6,fatima.brown@example.edu
+1104,Noor,Murphy,Eng.,Chennai,13 Mar 2025,38,"32,000",78.2,noor.murphy@example.edu
+1110,Divya,Khan,computer science,Madurai,1 Jul 2025,25,"48,000",84.7,divya.khan@example.edu
+1231,Ben,Patel,CS,Madurai,25/07/2025,42,"48,000",,ben.patel@example.edu
+1224,Aisha,Tanaka,CS,Madurai,2025-11-07,45,"48,000",,aisha.tanaka@example.edu
+1141,Eli,Ahmed,Eng.,Chennai,2025-09-02,0,32000,78.2,eli.ahmed@example.edu
+1280,Mei,Nkemdirim,data science,Madurai,2025-11-20,24,"55,000",61.6,mei.nkemdirim@example.edu
+1024,Noor,Hughes,Comp Sci,Coimbatore,2025-10-10,1,"48,000",65.3,noor.hughes@example.edu
+1133,Chen,Garcia,Engineering,Coimbatore,2025-02-26,30,"32,000",54.0,chen.garcia@example.edu
+1019,Hassan,Nkemdirim,engineering,Madurai,21/03/2025,37,"32,000",61.6,hassan.nkemdirim@example.edu
+1130,Ingrid,Jones,Comp Sci,Chennai,2025-03-18,44,"Rs 48,000",,   
+1085,Divya,Khan, Data Science ,Chennai,12 Jan 2025,28,"Rs 55,000",61.6,divya.khan@example.edu
+1248,Liam,O’Patel, Data Science ,Chennai,16/03/2025,31,55000,80.6,liam.patel@example.edu
+1189,Aisha,Hughes,Data Science,Coimbatore,04/07/2025,29,55000,79.5,aisha.hughes@example.edu
+1253,Priya,Ahmed,CS,Coimbatore,10/25/2025,34,48000,78.5,priya.ahmed@example.edu
+1090,Mei,Lewis,Eng.,Coimbatore,9 Apr 2025,30,32000,94.9,mei.lewis@example.edu
+1184,Ben,Farah, Data Science ,Madurai,2025-01-07,37,55000,60.7,ben.farah@example.edu
+1232,Omar,Garcia,Comp Sci,Coimbatore,06/27/2025,41,"Rs 48,000",71.6,omar.garcia@example.edu
+1267,Ravi,Lewis,Eng.,Madurai,14 Jan 2025,29,"Rs 32,000",,ravi.lewis@example.edu
+1021,Quinn,Nkemdirim,CS,Coimbatore,06/04/2025,39,"48,000",65.8,quinn.nkemdirim@example.edu
+1057,Fatima,Garcia,Comp Sci,Coimbatore,8 Jul 2025,21,"48,000",73.2,fatima.garcia@example.edu
+1023,Ingrid,Smith,Engineering,Madurai,2025-11-16,21,"32,000",42.7,ingrid.smith@example.edu
+1158,Ben,Tanaka,Engineering,Chennai,6 Feb 2025,24,"Rs 32,000",73.5,ben.tanaka@example.edu
+1210,Jai,Quinn,Comp Sci,Coimbatore,23 Oct 2025,23,48000,72.6,jai.quinn@example.edu
+1284,Eli,Okafor,Engineering,Coimbatore,2025-03-16,37,32000,70.6,eli.okafor@example.edu
+1273,Kemi,Hughes,Comp Sci,Chennai,05/07/2025,44,48000,69.6,kemi.hughes@example.edu
+1121,Grace,Iqbal,engineering,Madurai,12/03/2025,40,32000,,grace.iqbal@example.edu
+1108,Ravi,Chen,Data Science,Coimbatore,2025-05-13,25,"55,000",73.6,ravi.chen@example.edu
+1214,Liam,Garcia, Data Science ,Chennai,10/02/2025,42,"Rs 55,000",74.9,liam.garcia@example.edu
+1036,Grace,Nkemdirim,Eng.,Coimbatore,12/05/2025,43,32000,63.7,grace.nkemdirim@example.edu
+1244,Fatima,Patel,Computer Science,Chennai,2025-10-04,26,48000,58.2,fatima.patel@example.edu
+1068,Hassan,Chen,DATA SCIENCE,Chennai,23 Apr 2025,22,"55,000",61.8,hassan.chen@example.edu
+1002,Aisha,Rossi,Data Science,Chennai,2025-09-28,45,"Rs 55,000",89.3,aisha.rossi@example.edu
+1113,Chen,Evans,CS,Coimbatore,2025-10-24,18,"48,000",64.2,chen.evans@example.edu
+1096,Hassan,Ahmed,ENGINEERING,Coimbatore,2025-06-12,21,"32,000",76.7,hassan.ahmed@example.edu
+1217,Jai,Tanaka,Engineering,Coimbatore,25/09/2025,34,"32,000",74.4,jai.tanaka@example.edu
+1116,Hassan,Smith,ENGINEERING,Chennai,08/25/2025,19,32000,67.5,hassan.smith@example.edu
+1279,Kemi,Davies,DATA SCIENCE,Madurai,01/18/2025,22,55000,,KEMI.DAVIES@EXAMPLE.EDU
+1082,Aisha,Chen,Eng.,Chennai,6 May 2025,29,"Rs 32,000",54.0,aisha.chen@example.edu
+1156,Priya,Smith,Data Science,Coimbatore,4 Oct 2025,23,55000,50.6,PRIYA.SMITH@EXAMPLE.EDU
+1283,Kemi,Davies,computer science,Coimbatore,2025-03-13,27,"Rs 48,000",71.4,   
+1118,Hassan,Ahmed,CS,Madurai,24/04/2025,29,48000,55.7,hassan.ahmed@example.edu
+1132,Sofia,Quinn, Data Science ,Coimbatore,11/13/2025,27,55000,76.9,sofia.quinn@example.edu
+1054,Sofia,Tanaka,data science,Coimbatore,2025-01-14,43,"Rs 55,000",66.9,sofia.tanaka@example.edu
+1075,Ben,Farah,CS,Coimbatore,11/13/2025,35,"48,000",77.0,ben.farah@example.edu
+1225,Sofia,Smith,Computer Science,Madurai,27/12/2025,29,"48,000",68.3,sofia.smith@example.edu
+1271,Chen,Tanaka,Comp Sci,N/A,24/09/2025,36,"Rs 48,000",91.8,chen.tanaka@example.edu
+1051,Quinn ,Smith,DATA SCIENCE,N/A,2025-03-15,42,55000,64.9,quinn.smith@example.edu
+1286,Noor,Davies,ENGINEERING,Madurai,12/20/2025,41,"32,000",62.2,noor.davies@example.edu
+1252,Hassan,Iqbal,Eng.,Chennai,2025-05-13,41,"Rs 32,000",62.5,hassan.iqbal@example.edu
+1191,Ingrid,Davies,Eng.,Madurai,2025-01-14,45,32000,62.8,ingrid.davies@example.edu
+1038,Sofia,Patel,Engineering,Chennai,2025-08-22,34,"32,000",75.8,sofia.patel@example.edu
+1050,Hassan,Patel,Computer Science,Chennai,19 Oct 2025,44,48000,47.9,hassan.patel@example.edu
+1089,Ravi,Evans,data science,Chennai,27 Jan 2025,28,"Rs 55,000",75.2,ravi.evans@example.edu
+1199,Omar,Rossi,Comp Sci,Chennai,12/03/2025,27,48000,84.1,omar.rossi@example.edu
+1037,Mei,Hughes,computer science,Madurai,2025-12-05,42,"Rs 48,000",53.1,mei.hughes@example.edu
+1050,Hassan,Patel,Computer Science,Chennai,19 Oct 2025,44,48000,47.9,HASSAN.PATEL@EXAMPLE.EDU
+1138,Mei,Ahmed,Data Science,Madurai,02/25/2025,40,55000,68.0,mei.ahmed@example.edu
+1017,Noor,Farah,computer science,Chennai,2025-08-24,26,"48,000",64.2,   
+1016,Fatima,Farah,Data Science,Coimbatore,2025-06-19,25,"Rs 55,000",56.8,fatima.farah@example.edu
+1160,Ingrid,Jones,ENGINEERING,Madurai,28 Apr 2025,36,"32,000",73.3,ingrid.jones@example.edu
+1044,Liam,Brown,computer science,Madurai,08/05/2025,35,"48,000",,liam.brown@example.edu
+1145,Ben,Lewis,Data Science,Madurai,2025-04-15,41,"Rs 55,000",,ben.lewis@example.edu
+1215,Mei,Davies,Engineering,Chennai,2025-07-11,24,32000,60.3,mei.davies@example.edu
+1061,Omar,Tanaka,ENGINEERING,Chennai,11 Apr 2025,33,"32,000",70.4,omar.tanaka@example.edu
+1259,Hassan,Brown,data science,Chennai,02/08/2025,41,"55,000",81.4,hassan.brown@example.edu
+1190,Grace,Evans,computer science,Madurai,01/01/2025,24,"Rs 48,000",67.9,GRACE.EVANS@EXAMPLE.EDU
+1186,Omar,Rossi,engineering,N/A,24/10/2025,40,32000,57.1,omar.rossi@example.edu
+1154,Divya,Ahmed,Computer Science,Coimbatore,12/22/2025,36,"48,000",61.2,divya.ahmed@example.edu
+1226,Noor,Smith,CS,Coimbatore,11/02/2025,32,"48,000",82.1,noor.smith@example.edu
+1047,Eli,Quinn,Engineering,Madurai,12 Dec 2025,35,"32,000",59.8,eli.quinn@example.edu
+1076,Jai,Brown,computer science,Madurai,02/15/2025,19,"48,000",73.4,JAI.BROWN@EXAMPLE.EDU
+1241,Ingrid,Garcia,Data Science,N/A,12/08/2025,19,55000,70.1,ingrid.garcia@example.edu
+1155,Jai,Smith,DATA SCIENCE,Chennai,08/26/2025,28,"Rs 55,000",,jai.smith@example.edu
+1238,Ingrid,Garcia,Eng.,Coimbatore,10/02/2025,25,"32,000",60.4,ingrid.garcia@example.edu
+1094,Noor,Quinn,data science,Madurai,20 Jun 2025,31,"Rs 55,000",,noor.quinn@example.edu
+1228,Mei,Lewis,ENGINEERING,Chennai,02/15/2025,35,"Rs 32,000",81.3,mei.lewis@example.edu
+1236,Divya,Davies,data science,Coimbatore,2025-06-13,29,55000,66.9,divya.davies@example.edu
+1157,Ingrid,Rossi,CS,Coimbatore,07/23/2025,42,"Rs 48,000",72.8,ingrid.rossi@example.edu
+1300,Aisha,Farah,computer science,Coimbatore,13 Jan 2025,40,48000,79.2,aisha.farah@example.edu
+1001,Chen,Smith,ENGINEERING,Madurai,2025-08-06,40,"Rs 32,000",42.7,chen.smith@example.edu
+1165,Chen,Okafor,CS,Chennai,2025-07-23,38,"Rs 48,000",76.1,chen.okafor@example.edu
+1135,Eli,Hughes,engineering,Chennai,2025-09-19,36,32000,68.2,eli.hughes@example.edu
+1255,Grace,Chen,DATA SCIENCE,Chennai,27/10/2025,33,55000,77.0,grace.chen@example.edu
+1182,Mei,Okafor,engineering,Coimbatore,2025-09-27,20,"32,000",56.6,mei.okafor@example.edu
+1203,Chen,Patel,Comp Sci,N/A,01/27/2025,19,48000,70.5,chen.patel@example.edu
+1084,Ingrid,Chen,data science,Coimbatore,2025-02-08,28,"Rs 55,000",59.4,ingrid.chen@example.edu
+1265,Noor,Ahmed,ENGINEERING,Chennai,2025-11-05,37,"Rs 32,000",71.4,noor.ahmed@example.edu
+1299,Ben,Ahmed,CS,Coimbatore,12/21/2025,26,"48,000",65.1,ben.ahmed@example.edu
+1288,Tom,Patel,Eng.,Coimbatore,01/26/2025,38,"32,000",62.8,tom.patel@example.edu
+1153,Omar,Ahmed,Computer Science,Chennai,08/16/2025,39,48000,47.0,omar.ahmed@example.edu
+1218,Liam,Nkemdirim,DATA SCIENCE,Coimbatore,2025-02-22,39,55000,82.5,liam.nkemdirim@example.edu
+1245,Liam,Rossi,Eng.,Madurai,21/02/2025,24,"32,000",44.0,liam.rossi@example.edu
+1159,Liam,Patel,CS,Chennai,2025-02-13,30,"48,000",63.9,liam.patel@example.edu
+1030,Hassan,Chen,Computer Science,Madurai,2025-04-22,20,"48,000",54.7,hassan.chen@example.edu
+1242,Priya,Jones,Comp Sci,N/A,2025-10-18,42,"Rs 48,000",66.0,priya.jones@example.edu
+1120,Jai,Nkemdirim,computer science,Coimbatore,2025-09-08,29,"Rs 48,000",77.5,jai.nkemdirim@example.edu
+1219,Eli,Nkemdirim, Data Science ,Madurai,22 Jul 2025,35,"Rs 55,000",84.9,eli.nkemdirim@example.edu
+1087,Ingrid,Okafor,Engineering,Chennai,06/06/2025,38,"Rs 32,000",99.0,ingrid.okafor@example.edu
+1123,Sofia,Davies,Engineering,Chennai,28 Oct 2025,19,"32,000",63.4,sofia.davies@example.edu
+1099,Tom,Tanaka,Comp Sci,Madurai,2025-04-06,43,48000,50.8,tom.tanaka@example.edu
+1069,Ben,Chen,engineering,Chennai,2 Aug 2025,150,"Rs 32,000",63.2,   
+1190,Grace,Evans,computer science,Madurai,01/01/2025,24,"Rs 48,000",67.9,grace.evans@example.edu
+1180,Eli,Ahmed,data science,Madurai,23/08/2025,40,55000,73.7,eli.ahmed@example.edu
+1176,Ben,Iqbal,data science,Madurai,26 Nov 2025,31,"Rs 55,000",150.5,ben.iqbal@example.edu
+1258,Quinn,Lewis,Comp Sci,N/A,13 Jul 2025,20,"48,000",57.0,quinn.lewis@example.edu
+1262,Omar,Rossi,Computer Science,Coimbatore,02/01/2025,27,"48,000",72.2,omar.rossi@example.edu
+1164,Ingrid,Smith,computer science,Madurai,12/02/2025,26,48000,51.0,ingrid.smith@example.edu
+1053,Omar,Farah,data science,Chennai,12/08/2025,36,"55,000",64.1,omar.farah@example.edu
+1022,Kemi,Iqbal,Eng.,Madurai,15/05/2025,38,"Rs 32,000",80.1,kemi.iqbal@example.edu
+1248,Liam,O’Patel, Data Science ,Chennai,16/03/2025,31,55000,80.6,liam.patel@example.edu
+1150,Aisha,Farah,CS,Coimbatore,25 Jan 2025,32,"48,000",50.9,aisha.farah@example.edu
+1079,Sofia,Rossi,data science,Chennai,20/10/2025,42,55000,62.0,sofia.rossi@example.edu
+1183,Eli,Okafor, Data Science ,Chennai,7 Dec 2025,32,"55,000",49.9,eli.okafor@example.edu
+1028,Hassan,Evans,Data Science,Coimbatore,15/04/2025,30,"55,000",72.3,   
+1039,Grace,Lewis,DATA SCIENCE,Coimbatore,11/01/2025,33,55000,150.5,grace.lewis@example.edu
+1103,Hassan,Iqbal,Computer Science,Madurai,06/10/2025,23,48000,48.7,hassan.iqbal@example.edu
+1156,Priya,Smith,Data Science,Coimbatore,4 Oct 2025,23,55000,50.6,priya.smith@example.edu
+1243,Divya,Farah,Comp Sci,Coimbatore,05/05/2025,39,"Rs 48,000",69.2,divya.farah@example.edu
+1237,Divya,Khan,Computer Science,Chennai,2025-09-11,33,"Rs 48,000",78.3,divya.khan@example.edu
+1126,Tom,Rossi,Computer Science,Coimbatore,21/09/2025,30,"Rs 48,000",85.4,tom.rossi@example.edu
+1195,Tom,Davies,Data Science,Chennai,4 Aug 2025,19,"55,000",76.7,   
+1131,Sofia,Murphy,data science,Chennai,2025-01-05,19,"55,000",58.5,sofia.murphy@example.edu
+1143,Hassan,Lewis,Computer Science,Coimbatore,27 Feb 2025,29,"48,000",83.5,hassan.lewis@example.edu
+1111,Noor,Davies,computer science,Chennai,10/26/2025,24,48000,70.5,noor.davies@example.edu
+1048,Quinn,O’Nkemdirim,Eng.,Madurai,2025-04-07,33,"32,000",51.8,quinn.nkemdirim@example.edu
+1280,Mei,Nkemdirim,data science,Madurai,2025-11-20,24,"55,000",61.6,mei.nkemdirim@example.edu
+1229,Divya,Iqbal,Data Science,Chennai,10 Jan 2025,38,55000,83.0,divya.iqbal@example.edu
+1073,Chen,Patel,data science,Coimbatore,2025-09-17,34,55000,73.2,chen.patel@example.edu
+1197,Eli,Hughes,Data Science,Coimbatore,2025-07-18,35,"Rs 55,000",67.6,eli.hughes@example.edu
+1230,Divya,Ahmed,Engineering,Chennai,12/15/2025,31,"32,000",86.8,divya.ahmed@example.edu
+1287,Divya,Iqbal,Engineering,Madurai,26/12/2025,22,"Rs 32,000",48.9,divya.iqbal@example.edu
+1298,Quinn,Garcia,Eng.,Coimbatore,20 Mar 2025,44,"32,000",,quinn.garcia@example.edu
+1171,Jai,Brown,computer science,Madurai,2025-02-11,21,48000,57.7,jai.brown@example.edu
+1117,Grace,Brown,data science,Coimbatore,08/03/2025,33,-32000,73.8,grace.brown@example.edu
+1263,Sofia,Lewis,Eng.,Madurai,25 Oct 2025,38,"Rs 32,000",67.1,sofia.lewis@example.edu
+1012,Noor,Garcia,DATA SCIENCE,Madurai,18 Nov 2025,0,55000,75.1,noor.garcia@example.edu
+1181,Priya,Lewis,computer science,Madurai,18/09/2025,20,48000,62.8,priya.lewis@example.edu
+1257,Quinn,Tanaka,data science,Coimbatore,14 Nov 2025,38,"Rs 55,000",73.3,quinn.tanaka@example.edu
+1125,Quinn,Farah,Data Science,Madurai,18/02/2025,34,"Rs 55,000",62.3,quinn.farah@example.edu
+1270,Fatima,Iqbal,DATA SCIENCE,Madurai,26/11/2025,43,"55,000",76.5,fatima.iqbal@example.edu
+1005,Jai,Okafor,DATA SCIENCE,Chennai,2025-09-13,33,"Rs 55,000",59.4,jai.okafor@example.edu
+1274,Ingrid,O’Hughes,Computer Science,Madurai,06/13/2025,24,48000,70.9,   
+1119,Chen,Smith,Comp Sci,Madurai,01/25/2025,21,"48,000",54.2,chen.smith@example.edu
+1128,Eli,Murphy, Data Science ,Madurai,14/07/2025,33,"Rs 55,000",58.7,eli.murphy@example.edu
+1192,Liam,Quinn,computer science,Coimbatore,05/22/2025,42,"48,000",,liam.quinn@example.edu
+1056,Tom,Garcia,ENGINEERING,Coimbatore,15/05/2025,40,32000,75.1,tom.garcia@example.edu
+1188,Kemi,Farah,computer science,Chennai,23 May 2025,18,48000,61.9,kemi.farah@example.edu
+1092,Sofia,Brown,Data Science,Coimbatore,2025-09-19,25,"55,000",67.7,sofia.brown@example.edu
+1058,Eli,Quinn,Data Science,Coimbatore,19/06/2025,31,"55,000",61.0,eli.quinn@example.edu
+1289,Hassan,Okafor,Data Science,Madurai,4 Oct 2025,41,"55,000",58.5,hassan.okafor@example.edu
+1296,Fatima,Jones,engineering,Chennai,1 Oct 2025,33,"Rs 32,000",66.3,fatima.jones@example.edu
+1107,Hassan,Iqbal,ENGINEERING,Coimbatore,08/02/2025,28,"Rs 32,000",61.6,hassan.iqbal@example.edu
+1201,Divya,Evans,Comp Sci,Chennai,3 Aug 2025,37,"48,000",79.9,divya.evans@example.edu
+1055,Ingrid,Iqbal,Engineering,Chennai,2025-01-04,28,"32,000",91.0,ingrid.iqbal@example.edu
+1127,Hassan,Patel,computer science,Madurai,09/06/2025,44,48000,55.9,hassan.patel@example.edu
+1006,Omar,Quinn,Data Science,Madurai,24/08/2025,45,55000,65.9,omar.quinn@example.edu
+1173,Aisha,Ahmed,engineering,Coimbatore,18 Sep 2025,29,"Rs 32,000",58.8,aisha.ahmed@example.edu
+1170,Kemi,Okafor, Data Science ,Madurai,08/01/2025,24,"55,000",54.3,kemi.okafor@example.edu
+1093,Hassan,Rossi,Computer Science,Madurai,4 Aug 2025,19,48000,49.1,hassan.rossi@example.edu
+1065,Quinn,Hughes, Data Science ,Madurai,16 Feb 2025,22,"55,000",68.6,quinn.hughes@example.edu
+1080,Ingrid,Jones,computer science,Madurai,07/09/2025,37,"Rs 48,000",,ingrid.jones@example.edu
+1288,Tom,Patel,Eng.,Coimbatore,01/26/2025,38,"32,000",62.8,tom.patel@example.edu
+1144,Chen,Quinn,ENGINEERING,Coimbatore,2025-04-22,34,32000,88.3,chen.quinn@example.edu
+1060,Quinn,Quinn, Data Science ,Madurai,12/12/2025,44,"Rs 55,000",78.4,quinn.quinn@example.edu
+1264,Priya,Iqbal,DATA SCIENCE,N/A,26 Sep 2025,37,"Rs 55,000",70.0,priya.iqbal@example.edu
+1235,Ingrid,Jones,DATA SCIENCE,Coimbatore,10 Nov 2025,36,55000,88.3,ingrid.jones@example.edu
+1007,Omar,Smith,Computer Science,Coimbatore,21/02/2025,25,"48,000",60.1,omar.smith@example.edu
+1031,Divya,Nkemdirim,CS,Coimbatore,06/24/2025,18,"Rs 48,000",82.0,divya.nkemdirim@example.edu
+1035,Fatima,Nkemdirim,data science,Chennai,22 Jun 2025,41,"Rs 55,000",79.3,fatima.nkemdirim@example.edu
+1034,Omar,Jones,Comp Sci,Madurai,26 Sep 2025,39,"48,000",61.7,omar.jones@example.edu
+1098,Ravi,Farah,data science,Madurai,21/02/2025,36,"55,000",48.1,ravi.farah@example.edu
+1205,Sofia,Tanaka,Data Science,Chennai,04/12/2025,19,"55,000",89.8,sofia.tanaka@example.edu
+1260,Fatima,Evans, Data Science ,Madurai,2025-12-03,20,"Rs 55,000",69.3,fatima.evans@example.edu
+1221,Mei,Garcia, Data Science ,Coimbatore,8 Oct 2025,25,55000,84.5,mei.garcia@example.edu
+1194,Noor,Chen,CS,Coimbatore,2025-12-21,36,48000,68.0,noor.chen@example.edu
+1200,Sofia,Quinn,data science,Madurai,01/01/2025,28,55000,70.1,sofia.quinn@example.edu
+1062,Noor,Tanaka,ENGINEERING,Madurai,2025-03-05,18,32000,59.5,noor.tanaka@example.edu
+1281,Tom,Brown,Computer Science,Madurai,11/27/2025,37,"48,000",79.6,tom.brown@example.edu
+1174,Chen,Chen,engineering,Chennai,2025-02-02,27,"32,000",,chen.chen@example.edu
+1178,Priya,Rossi, Data Science ,Coimbatore,01/05/2025,31,"Rs 55,000",75.2,priya.rossi@example.edu
+1116,Hassan,Smith,ENGINEERING,Chennai,08/25/2025,19,32000,67.5,hassan.smith@example.edu
+1279,Kemi,Davies,DATA SCIENCE,Madurai,01/18/2025,22,55000,,kemi.davies@example.edu
+1175,Tom,Khan, Data Science ,Chennai,07/09/2025,37,"55,000",58.0,tom.khan@example.edu
+1234,Sofia,Jones,Eng.,Madurai,3 Sep 2025,25,"32,000",68.5,sofia.jones@example.edu
+1198,Divya,Khan,Computer Science,Chennai,02/14/2025,34,"Rs 48,000",63.1,divya.khan@example.edu
+1083,Kemi,Smith,Data Science,Madurai,20 May 2025,35,"Rs 55,000",71.7,kemi.smith@example.edu
+1052,Quinn,Farah,engineering,Coimbatore,2025-05-23,31,"Rs 32,000",66.4,quinn.farah@example.edu
+1146,Grace,Okafor,Comp Sci,Madurai,04/15/2025,20,"Rs 48,000",88.7,   
+1216,Noor,Okafor,computer science,Madurai,06/06/2025,18,"Rs 48,000",62.1,noor.okafor@example.edu
+1051,Quinn ,Smith,DATA SCIENCE,N/A,2025-03-15,42,55000,64.9,quinn.smith@example.edu
+1074,Jai,Patel,ENGINEERING,Coimbatore,11/26/2025,45,32000,61.3,jai.patel@example.edu
+1086,Ravi ,Davies,CS,Madurai,01/24/2025,41,48000,78.4,ravi.davies@example.edu
+1272,Quinn,Evans,DATA SCIENCE,Madurai,25 Feb 2025,41,"55,000",,quinn.evans@example.edu
+1167,Chen,Iqbal,Eng.,Madurai,14/01/2025,19,"32,000",53.7,chen.iqbal@example.edu
+1067,Hassan,Jones,Computer Science,Chennai,25 Dec 2025,36,"Rs 48,000",87.8,hassan.jones@example.edu
+1250,Chen,Okafor,Computer Science,Madurai,05/22/2025,45,48000,78.1,chen.okafor@example.edu
+1291,Omar,O’Quinn,Comp Sci,Madurai,2025-08-18,22,"Rs 48,000",-10.0,omar.quinn@example.edu
+1081,Eli,Davies,Data Science,Coimbatore,2025-12-04,27,55000,77.5,eli.davies@example.edu
+1142,Ben,Ahmed,Data Science,Chennai,02/07/2025,28,"55,000",56.4,ben.ahmed@example.edu
+1129,Ravi,Nkemdirim,data science,Coimbatore,2025-01-16,34,55000,49.1,ravi.nkemdirim@example.edu
+1097,Fatima,Smith, Data Science ,Coimbatore,27 Nov 2025,39,"55,000",76.7,fatima.smith@example.edu
+1290,Ravi,Rossi,computer science,Coimbatore,28/01/2025,29,"48,000",92.1,ravi.rossi@example.edu
+1294,Eli,Lewis, Data Science ,Madurai,2025-11-25,39,"55,000",,eli.lewis@example.edu
+1124,Grace,Khan,Computer Science,Chennai,11/20/2025,32,"Rs 48,000",71.1,grace.khan@example.edu
+1251,Liam,Iqbal,Comp Sci,Coimbatore,09/09/2025,28,48000,84.7,liam.iqbal@example.edu
+1233,Ben,Patel, Data Science ,Chennai,03/04/2025,26,"Rs 55,000",87.8,ben.patel@example.edu
+1223,Fatima,Farah,engineering,Coimbatore,2025-06-15,32,32000,67.3,fatima.farah@example.edu
+1222,Eli,Ahmed,Computer Science,Madurai,2025-09-08,19,"48,000",72.7,eli.ahmed@example.edu
+1003,Quinn,Farah,Engineering,Chennai,12 Nov 2025,33,"32,000",75.7,quinn.farah@example.edu
+1211,Omar,Murphy,computer science,Madurai,05/12/2025,44,"Rs 48,000",,omar.murphy@example.edu
+1122,Kemi,Lewis,Data Science,Coimbatore,08/27/2025,43,"55,000",49.1,kemi.lewis@example.edu
+1040,Sofia,O’Smith,Eng.,Coimbatore,05/28/2025,41,"Rs 32,000",68.4,sofia.smith@example.edu
+1013,Jai,Evans,data science,Madurai,2025-03-12,36,"55,000",62.3,jai.evans@example.edu
+1278,Ben,Smith,engineering,Coimbatore,3 Jan 2025,18,"Rs 32,000",,ben.smith@example.edu
+1277,Kemi,Okafor,CS,Chennai,01/08/2025,20,48000,58.1,kemi.okafor@example.edu
+1295,Kemi,Ahmed,Comp Sci,Madurai,2025-05-20,20,48000,52.7,kemi.ahmed@example.edu
+1045,Eli,O’Quinn,DATA SCIENCE,Coimbatore,2025-03-24,22,"55,000",66.0,eli.quinn@example.edu
+1240,Jai,Iqbal,Engineering,Coimbatore,07/08/2025,31,"32,000",99.0,jai.iqbal@example.edu
+1212,Chen ,Davies,data science,Coimbatore,07/03/2025,21,"Rs 55,000",57.7,chen.davies@example.edu
+1064,Divya,Patel,computer science,Chennai,08/05/2025,32,48000,64.8,divya.patel@example.edu
+1269,Eli,Murphy,CS,Chennai,7 Apr 2025,23,48000,91.3,eli.murphy@example.edu
+1208,Priya,Tanaka,Comp Sci,Coimbatore,17 Feb 2025,35,48000,68.9,priya.tanaka@example.edu
+1149,Ben,Davies,Eng.,Coimbatore,18 Jun 2025,27,"32,000",51.4,ben.davies@example.edu
+1193,Chen,Hughes,Data Science,Coimbatore,2025-01-14,43,"Rs 55,000",81.5,chen.hughes@example.edu
+1046,Ben,Nkemdirim,CS,Chennai,2025-04-12,30,48000,91.6,ben.nkemdirim@example.edu
+1184,Ben,Farah, Data Science ,Madurai,2025-01-07,37,55000,60.7,ben.farah@example.edu
+1187,Jai,Okafor,Computer Science,Coimbatore,19/08/2025,41,"Rs 48,000",79.0,jai.okafor@example.edu
+1070,Sofia,O’Ahmed,Eng.,N/A,01/28/2025,28,32000,63.0,sofia.ahmed@example.edu
+1041,Ingrid,Iqbal,Comp Sci,Chennai,10/23/2025,31,"Rs 48,000",73.2,ingrid.iqbal@example.edu
+1206,Kemi,Nkemdirim,Data Science,N/A,08/12/2025,26,55000,81.5,kemi.nkemdirim@example.edu
+1102,Grace,Khan,Eng.,Madurai,20/02/2025,30,"Rs 32,000",68.2,grace.khan@example.edu
+1256,Liam,Nkemdirim,ENGINEERING,Coimbatore,07/03/2025,41,"Rs 32,000",63.7,liam.nkemdirim@example.edu
+1247,Aisha,Lewis,Comp Sci,Chennai,7 Oct 2025,42,"48,000",70.7,aisha.lewis@example.edu
+1202,Kemi,Davies,Engineering,Madurai,05/03/2025,44,"Rs 32,000",66.1,kemi.davies@example.edu
+1172,Jai,Quinn,Eng.,Coimbatore,11/08/2025,30,"Rs 32,000",66.2,   
+1032,Eli,Davies, Data Science ,Chennai,24/02/2025,36,55000,67.6,eli.davies@example.edu
+1033,Grace,Rossi,Computer Science,Madurai,21 Feb 2025,38,"48,000",66.0,grace.rossi@example.edu
+1025,Eli,Murphy,ENGINEERING,Coimbatore,22 Mar 2025,35,32000,46.9,eli.murphy@example.edu
+1029,Divya,Smith,Computer Science,Chennai,03/03/2025,29,48000,86.8,divya.smith@example.edu
+1207,Priya,Chen,Computer Science,Coimbatore,2025-05-28,26,"Rs 48,000",63.3,priya.chen@example.edu
+1140,Quinn,Quinn,Data Science,Madurai,04/08/2025,42,55000,55.3,quinn.quinn@example.edu
+1223,Fatima,Farah,engineering,Coimbatore,2025-06-15,32,32000,67.3,fatima.farah@example.edu
+1020,Grace,Chen,Engineering,Coimbatore,02/21/2025,28,"Rs 32,000",73.5,grace.chen@example.edu
+1042,Chen,Jones,ENGINEERING,Madurai,2025-03-13,44,"Rs 32,000",59.1,chen.jones@example.edu
+1043,Jai,Farah,engineering,Madurai,2025-01-26,18,32000,65.1,jai.farah@example.edu
+1088,Noor,Iqbal,DATA SCIENCE,Chennai,26/12/2025,39,55000,65.5,noor.iqbal@example.edu
+1077,Liam,Nkemdirim,computer science,Coimbatore,08/04/2025,26,"48,000",62.4,liam.nkemdirim@example.edu
+1276,Tom,Hughes,computer science,Madurai,2025-08-11,34,"48,000",,tom.hughes@example.edu
+1169,Kemi,Ahmed,ENGINEERING,Chennai,2025-04-19,42,"Rs 32,000",69.6,kemi.ahmed@example.edu
+1266,Quinn,Smith,engineering,Madurai,07/16/2025,23,"Rs 32,000",75.4,quinn.smith@example.edu
+1076,Jai,Brown,computer science,Madurai,02/15/2025,19,"48,000",73.4,jai.brown@example.edu
+1152,Quinn,Hughes, Data Science ,Coimbatore,5 Dec 2025,32,"55,000",87.9,quinn.hughes@example.edu
+1078,Ravi,Evans,computer science,Madurai,17 Sep 2025,29,"Rs 48,000",51.7,ravi.evans@example.edu
+1227,Fatima ,Murphy,CS,Madurai,11/26/2025,19,48000,77.2,fatima.murphy@example.edu
+1091,Grace,Garcia,Computer Science,Coimbatore,2025-04-08,33,48000,72.5,grace.garcia@example.edu
+1254,Kemi,Nkemdirim,ENGINEERING,Madurai,10/22/2025,29,"Rs 32,000",61.3,kemi.nkemdirim@example.edu
+1010,Mei,Hughes,DATA SCIENCE,Coimbatore,2025-05-19,26,"55,000",43.5,mei.hughes@example.edu
+1109,Noor,Nkemdirim,Eng.,Chennai,7 Nov 2025,45,32000,62.2,noor.nkemdirim@example.edu
+1008,Chen,Garcia,DATA SCIENCE,Coimbatore,26 May 2025,20,"55,000",70.5,chen.garcia@example.edu

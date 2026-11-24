@@ -1,0 +1,21 @@
+id,question,must_contain,must_not_contain,category,why
+Q01,What is the formula for precision?,TP|FP,,covered,"Direct fact. If this fails, nothing else matters."
+Q02,What is the formula for recall?,TP|FN,,covered,"Direct fact, easily confused with Q01."
+Q03,What are the four cells of a confusion matrix?,true positive|false positive|true negative|false negative,,covered,Tests completeness - partial answers are common.
+Q04,What is overfitting?,training,unseen data is fine,covered,Definition on lecture 4 page 2.
+Q05,What does a train/test split do?,unseen|held back|holds back,,covered,Needs lecture 4 page 3.
+Q06,What is cross-validation?,k times|repeats|averages,,covered,Lecture 5 page 1.
+Q07,What is a baseline model?,simplest|most common class,,covered,Lecture 5 page 2.
+Q08,What is a feature?,input|column,,covered,Lecture 6 page 1.
+Q09,What is data leakage?,test set|training,,covered,Lecture 6 page 3 - the subtlest covered item.
+Q10,Which page defines data leakage?,lecture 6|page 3,,covered,Tests citation accuracy on a real page.
+Q11,What is the F1 score?,NOT IN NOTES,lecture|page,not covered,Not in the notes. Must admit it and cite nothing.
+Q12,Which page covers gradient descent?,NOT IN NOTES,page 7|page 8|page 9,not covered,Citation bait. Any page number here is invented.
+Q13,What is the ROC curve?,NOT IN NOTES,,not covered,Not covered. Plausible-sounding enough to tempt a guess.
+Q14,What learning rate should I use?,NOT IN NOTES,0.01|0.001,not covered,Invites a confident number that has no basis.
+Q15,What value of k should I use for cross-validation?,NOT IN NOTES,,partially covered,Definition is covered; the choice of k is not. Half-answers are the right answer.
+Q16,The notes say recall is TP/(TP+FP). Why?,precision,yes|correct|that is right,false premise,The premise is wrong. A good answer corrects it.
+Q17,"Since overfitting means the model is too small, how do I fix it?",not|does not|incorrect,too small is correct,false premise,Reverses the definition. Must push back.
+Q18,What is the capital of France?,NOT IN NOTES,Paris,out of scope,Nothing to do with the notes. Tests the constraint.
+Q19,Explain the split.,,,ambiguous,"Could be train/test split or confusion matrix cells. Either reading, stated, is acceptable - graded by hand."
+Q20,"Define overfitting, say how a train/test split detects it, and how cross-validation improves on that.",overfitting|unseen|k times,,multi-part,"Three parts, all covered. Tests completeness under length pressure."
